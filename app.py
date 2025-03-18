@@ -285,4 +285,4 @@ def update_graphs(categories, locations):
             location_fig, coupon_fig, discount_fig, table_data)
 
 if __name__ == '__main__':
-    app.run_server(debug=True, port=8050)
+    app.run_server(debug=True)
